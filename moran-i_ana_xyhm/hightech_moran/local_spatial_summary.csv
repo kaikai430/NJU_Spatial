@@ -1,0 +1,13 @@
+﻿year,analysis,weights_method,alpha,category,count
+2022,lisa,queen,0.05,Not significant,221
+2022,lisa,queen,0.05,High-High,11
+2022,lisa,queen,0.05,Low-High,6
+2022,lisa,queen,0.05,Low-Low,31
+2022,lisa,queen,0.05,High-Low,3
+2022,gi_star,queen,,Cold spot 99%,4
+2022,gi_star,queen,,Cold spot 95%,25
+2022,gi_star,queen,,Cold spot 90%,23
+2022,gi_star,queen,,Not significant,185
+2022,gi_star,queen,,Hot spot 90%,18
+2022,gi_star,queen,,Hot spot 95%,10
+2022,gi_star,queen,,Hot spot 99%,7

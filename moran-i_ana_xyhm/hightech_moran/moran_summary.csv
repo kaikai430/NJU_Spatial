@@ -1,2 +1,4 @@
-﻿year,n_cities,weights_method,moran_i,expected_i,z_score,p_value,seed,hightech_column,city_column,code_column,standardized_rows,raw_rows
-2022,272,queen,0.24260497562514516,-0.0036900369003690036,6.406910941684174,0.001,42,高新技术企业数,city,行政区划代码,283,283
+﻿year,weights_method,is_primary,n_cities,moran_i,expected_i,z_score,p_value,seed,permutations,hightech_column,city_column,code_column,standardized_rows,raw_rows,n_islands
+2022,queen,True,272,0.1837169349949505,-0.0036900369003690036,4.53015094391741,0.002,42,999,高新技术企业数,city,行政区划代码,283,283,0
+2022,knn4,False,272,0.24260497562514516,-0.0036900369003690036,6.281775569300193,0.001,42,999,高新技术企业数,city,行政区划代码,283,283,0
+2022,knn8,False,272,0.1879648396841747,-0.0036900369003690036,7.412760718978947,0.001,42,999,高新技术企业数,city,行政区划代码,283,283,0
