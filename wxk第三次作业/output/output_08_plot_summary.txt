@@ -1,0 +1,13 @@
+Plot package summary for second MGWR run
+
+OLS R2 = 0.8005
+OLS Adj. R2 = 0.7990
+PM2.5 OLS coefficient = 0.0672
+Smoking OLS coefficient = 0.8160
+Obesity OLS coefficient = 0.1012
+
+PM2.5 significant counties = 112/401
+PM2.5 significant positive = 48
+PM2.5 significant negative = 64
+Mean local R2 = 0.9123
+Median local R2 = 0.9221
